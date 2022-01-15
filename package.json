@@ -1,0 +1,13 @@
+{
+  "name": "tsm-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsm main.ts"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0"
+  },
+  "devDependencies": {
+    "tsm": "^2.2.1"
+  }
+}
